@@ -5,8 +5,9 @@
 - < head> contains metadata like the title of the page.
 - < body> hold the visible content of the webpage 
 
-Under standing Semantic HTML - most important semantic tags
-# Vocabulary 
+
+# Vocabulary
+--Under standing Semantic HTML - most important semantic tags--
 - < header> -- Defines the top section of a webpage (like a website banner).
 - < nav> -- Contains the navigation menu with links to other pages.
 - < main> -- The primary content of the page (excluding sidebars or footers)
