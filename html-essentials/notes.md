@@ -3,11 +3,11 @@
 - < !DOCTYPE html> :Declares the document as HTML file 
 - < html> : This is the  root element
     - head>: headtag includes meta data such as the title, description,keywords,author
-        < meta charset="UTF-8">
-        < meta name="description" content="Learn HTML easily">
-        < meta name="keywords" content="HTML,CSS, Javascript">
-        < meta name="author" content="John Doe">
-        < title>First Website< /title>
+     - < meta charset="UTF-8">
+     - < meta name="description" content="Learn HTML easily">
+     -  < meta name="keywords" content="HTML,CSS, Javascript">
+     - < meta name="author" content="John Doe">
+     - < title>First Website< /title>
     - < body>: the body tag holds all visible content
     - header tags: h1-h6 where h1 is largest and get progressively smaller 
       - < h1>Main Heading (h1)< /h1>
