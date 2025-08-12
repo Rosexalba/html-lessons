@@ -18,19 +18,22 @@
 
 # Anchor tags
 < a> Anchor tag: allows us to create hyperlinks to other pages and recources
- We use the href="" attribute to specify where the link points to.
+ We use the [ href="" ] attribute to specify where the link points to.
+ <br/>
  Example: < a href="https://google.com">Anchor< a>
- adding target="" to the mix
+ <br/>
+ adding [ target="" ] to the mix
+ <br/>
  Example: < a href="https://google.com" target="_blank">Anchor< a>
 
 # Attributes for anchor tags 
 - href="" : Specify where link point to 
 - target="" : Links that open new tag 
 
-navigation words insdie href
+navigation words insdie "" [ href="" ]
 - url link: https://google.com
 - file link: ./index.html
 - email: mailto:[ "email" ]
 - Phone: tel: [ "Phone number"]
-- Section: #Section[ section #/name ]
+- Section: #Section[ section "#/name" ]
 
