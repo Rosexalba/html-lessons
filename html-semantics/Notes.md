@@ -37,3 +37,5 @@ navigation words insdie "" [ href="" ]
 - Phone: tel: [ "Phone number"]
 - Section: #Section[ section "#/name" ]
 
+# Adding Images,Audios, and Videos to our Webpage
+
