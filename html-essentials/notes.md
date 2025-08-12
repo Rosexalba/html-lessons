@@ -3,28 +3,28 @@
 - < !DOCTYPE html> :Declares the document as HTML file 
 - < html> : This is the  root element
 - < head>: headtag includes meta data such as the title, description,keywords,author
-     - < meta charset="UTF-8">
-     - < meta name="description" content="Learn HTML easily">
-     -  < meta name="keywords" content="HTML,CSS, Javascript">
-     - < meta name="author" content="John Doe">
+    - < meta charset="UTF-8">
+    - < meta name="description" content="Learn HTML easily">
+    - < meta name="keywords" content="HTML,CSS, Javascript">
+    - < meta name="author" content="John Doe">
     gi - < title>First Website< /title>
 - < body>: the body tag holds all visible content
 - header tags: h1-h6 where h1 is largest and get progressively smaller 
-     - < h1>Main Heading (h1)< /h1>
-     - < h2>Sub Header(h2)< /h2>
-     - < h3>section title (h3)< /h3>
-     - < h4>Smaller title (h4)< /h4>
-     - < h5>Minor Heading (h5)< /h5>
-     - < h6>Smallest Heading (h6)< /h6>
+    - < h1>Main Heading (h1)< /h1>
+    - < h2>Sub Header(h2)< /h2>
+    - < h3>section title (h3)< /h3>
+    - < h4>Smaller title (h4)< /h4>
+    - < h5>Minor Heading (h5)< /h5>
+    - < h6>Smallest Heading (h6)< /h6>
 - p tag: for description 
-     - < p>This is a paragraph tag (p)< /p>
+    - < p>This is a paragraph tag (p)< /p>
      
 - div: is a block level container that spans the entire width 
-      -  < div style="background-color: yellow; padding: 10px;">
-      - < h3>Div Section< /h3>
-      - < p>This is a block level container using "<  div  >"< /p>
-      < /div>
+    -  < div style="background-color: yellow; padding: 10px;">
+    - < h3>Div Section< /h3>
+    - < p>This is a block level container using "<  div  >"< /p>
+     < /div>
 - Span: is an inline elment for styling parts of text
-      - < p>This text containes a [ < span style="color: black; background-color: yellow;">higlighted word< /span> ] using < span > tag< /p>
+    - < p>This text containes a [ < span style="color: black; background-color: yellow;">higlighted word< /span> ] using < span > tag< /p>
     < /body>
 < /html>
