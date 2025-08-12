@@ -6,7 +6,7 @@
 - < body> hold the visible content of the webpage 
 
 
-# Vocabulary
+# Semantic Tags 
 --Under standing Semantic HTML - most important semantic tags--
 - < header> -- Defines the top section of a webpage (like a website banner).
 - < nav> -- Contains the navigation menu with links to other pages.
@@ -15,3 +15,22 @@
 - < section> -- Groups related content within the page
 - < aside> -- Represents sidebar content, such as advertisements or related links.
 - < footer> -- Contains copyright notices and extra information at the bottom.
+
+# Anchor tags
+< a> Anchor tag: allows us to create hyperlinks to other pages and recources
+ We use the href="" attribute to specify where the link points to.
+ Example: < a href="https://google.com">Anchor< a>
+ adding target="" to the mix
+ Example: < a href="https://google.com" target="_blank">Anchor< a>
+
+# Attributes for anchor tags 
+- href="" : Specify where link point to 
+- target="" : Links that open new tag 
+
+navigation words insdie href
+- url link: https://google.com
+- file link: ./index.html
+- email: mailto:[ "email" ]
+- Phone: tel: [ "Phone number"]
+- Section: #Section[ section #/name ]
+
