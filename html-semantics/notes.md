@@ -38,4 +38,11 @@ navigation words insdie "" [ href="" ]
 - Section: #Section[ section "#/name" ]
 
 # Adding Media: Images,Audios, and Videos to our Webpage
+- < img>: image tag
 
+# Attributes for Media
+- src= [ path ]
+- alt= "[  media description ]"
+- width= [ genric size ]
+
+- Example: < img [ src= ]/home/rosexalba/html-lessons/html-semantics/imgCathedral.jpg [ alt= ]"picture of inside cathedral" [ width= ]"300" >
