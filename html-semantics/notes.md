@@ -38,7 +38,8 @@ navigation words insdie "" [ href="" ]
 - Section: #Section[ section "#/name" ]
 
 # Adding Media: Images,Audios, and Videos to our Webpage
-- < img>: image tag
+- < img>: tag represtent an image
+- < audio>: tag represents a sound or audio stream
 
 # Attributes for Media
 - src= [ path ]
