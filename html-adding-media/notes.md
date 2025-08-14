@@ -32,4 +32,12 @@ Example: < audio control> < source src="./brain_stew.mp3" type="audio/mpeg" /> <
 Example:  < video controls width="400"> < source src="./video.mp4" type="video/mp4"> < /video>
 
 # Embedding Youtube Videos
-- 
+- Youtube videos use < iframe: portal to a different website within your page
+
+1. go to youtube.com 
+2. find desired video
+3. click "share" button
+4. slect and copy "embed" <>
+5. paste on vscode: this will give you the code with attributes included
+<br/>
+Example: < iframe width="491" height="872" src="https://www.youtube.com/embed/NbV080vu2Jk" title="Guys I found a walkie talkie circuit in an old book. I immediately made a schema it looks cool." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>< /iframe>
