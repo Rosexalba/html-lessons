@@ -1,4 +1,4 @@
-# Vocabulary 
+# Vocabulary < 3
 
 - < !DOCTYPE html> declares the document as HTML5.
 - < html lang="en"> specifies that the content is in English.
